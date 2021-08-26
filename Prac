@@ -1,0 +1,13 @@
+This file has some important git commands
+
+git init
+git clone <repo name>
+
+git status
+git add <filename>
+git commit m "message"
+
+git branch <branch name>
+git merge <branch name>
+git push <repo name> <branch name>
+
